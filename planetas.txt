@@ -4,3 +4,4 @@ Estrela da Morte
 Mercurio
 Marte
 Terra
+Venus
