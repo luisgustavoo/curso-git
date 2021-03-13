@@ -2,7 +2,6 @@ Luke Skywalker
 Obi Wan Kenobi
 Master Yoda
 Leia Organa
-<<<<<<< HEAD
 Chewbacca
 Han Solo
 Jabba the Hutt
@@ -12,3 +11,4 @@ Finn
 Kyle Ren
 Poe Damero
 General Hux
+Yoda
